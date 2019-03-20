@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/branching.iml" filepath="$PROJECT_DIR$/.idea/modules/branching.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/branching.main.iml" filepath="$PROJECT_DIR$/.idea/modules/branching.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/branching.test.iml" filepath="$PROJECT_DIR$/.idea/modules/branching.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin_mod/kotlin_mod.iml" filepath="$PROJECT_DIR$/kotlin_mod/kotlin_mod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin_mod2/kotlin_mod2.iml" filepath="$PROJECT_DIR$/kotlin_mod2/kotlin_mod2.iml" />
     </modules>
   </component>
 </project>
