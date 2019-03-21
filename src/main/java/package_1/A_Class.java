@@ -22,4 +22,5 @@ public class A_Class {
 
     //comment
     //comment
+    //comment
 }
