@@ -1,14 +1,9 @@
 package package_1;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
-import java.util.List;
 
 public class A_Class {
-
-
-
     public static void main(String[] args) {
         ArrayList<String> s = new ArrayList<>();
         s.add("00");
@@ -19,9 +14,10 @@ public class A_Class {
         s.add("11");
         s.add("20");
 
-        Collections.sort(s);
+        Collections.sort(s);//ывыв
 
         System.out.println("List after the use of" +
                 " Collection.sort() :\n" + s);
     }
+
 }
