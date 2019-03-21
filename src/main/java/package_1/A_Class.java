@@ -20,4 +20,5 @@ public class A_Class {
                 " Collection.sort() :\n" + s);
     }
 
+    //comment
 }
