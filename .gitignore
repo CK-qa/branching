@@ -1,3 +1,7 @@
 *.iml
 /modules
-/libraries/
+/libraries/*
+
+file_name.txt
+
+/.idea
